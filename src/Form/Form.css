@@ -1,0 +1,11 @@
+.make-reservation {
+    background-color: teal;
+    color: white;
+    width: 8rem;
+    font-size: .4;
+}
+
+input {
+    margin-right: .5rem;
+    border: 2px solid teal;
+}
