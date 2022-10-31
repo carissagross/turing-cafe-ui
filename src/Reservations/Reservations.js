@@ -4,7 +4,9 @@ import './Reservations.css'
 
 const Reservations = () => {
     return (
-        <div className='card-container'>
+        <div className='reservation-card-container'>
+            <Card />
+            <Card />
             <Card />
         </div>
     )
