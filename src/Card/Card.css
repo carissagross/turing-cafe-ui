@@ -1,5 +1,5 @@
 .card {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: tahoma;
     font-weight: 500;
     box-sizing: border-box;
     border: 3px solid teal;
@@ -8,4 +8,22 @@
     background-color :white;
     width: 15rem;
     height: 10rem;
+    color: teal;
 }
+
+p {
+    font-size: .75rem;
+}
+
+h5 {
+    margin-top: -.2rem;
+
+}
+
+.cancel-button {
+    background-color: teal;
+    color: white;
+    width: 5rem;
+    font-size: .4;
+}
+
